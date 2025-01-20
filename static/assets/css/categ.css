@@ -1,0 +1,57 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.category-search {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 50px;
+}
+#sr{
+    font-size: 30px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:darkblue ;
+    margin-top: 50px;
+}
+#btn{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.card{
+    width:25%;
+    height:500px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#pic{
+    width:200px;
+    height:200px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h2{
+    color: rgb(237, 236, 240);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+h3{
+    color:rgb(237, 236, 240);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+h4{
+    color:rgb(201, 201, 216);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+
